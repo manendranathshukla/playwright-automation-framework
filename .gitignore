@@ -36,7 +36,6 @@ screenshots/
 # Compiled files
 lib/
 dist/
-*.js
 *.js.map
 *.d.ts
 
